@@ -52,7 +52,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **Displays Hello Microverse!**
-- **Backgroud Colour is Cyan**
+- **Backgroud Colour is Purple**
 - **Text Size is h1**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -68,14 +68,6 @@
 
 To get a local copy up and running, follow these steps: Clone Github Repo using SSH, HTTP, or via Github Desktop.
 
-
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
-
 ### Prerequisites
 
 In order to run this project you need: 
@@ -87,11 +79,7 @@ Internet Connection.
 ```sh
   cd your-project
   npm init -y  
-  npm install --save-dev hint@7.x
-
-  npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
-
-  npx stylelint "**/*.{css,scss}"
+  npm install
 ```
 
 ### Setup
@@ -125,7 +113,7 @@ To run tests, run the following command:
 
 ### Deployment
 
-You can deploy this project using:
+Coming Soon
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
